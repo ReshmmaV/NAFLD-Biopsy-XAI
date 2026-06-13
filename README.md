@@ -210,7 +210,6 @@ These visual explanations improve model transparency and support trustworthy cli
 # Authors
 
 - Reshmma Vijayakumar
-- Kethan Sai Vuppalapati
 - Namasivaya Naveen S
 
 ---
